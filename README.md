@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
