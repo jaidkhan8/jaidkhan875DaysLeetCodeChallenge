@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## String
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
