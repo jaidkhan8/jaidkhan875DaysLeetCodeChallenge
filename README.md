@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
