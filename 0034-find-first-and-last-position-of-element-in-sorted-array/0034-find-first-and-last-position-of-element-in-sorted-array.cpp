@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int leftSearch(const vector<int>& nums, int target) {
+    int leftSearch(vector<int>& nums, int target) {
         int start = 0;
         int end = nums.size() - 1;
         int ans = -1;
@@ -24,7 +24,7 @@ public:
         return ans;
     }
 
-    int rightSearch(const vector<int>& nums, int target) {
+    int rightSearch(vector<int>& nums, int target) {
         int start = 0;
         int end = nums.size() - 1;
         int ans = -1;
