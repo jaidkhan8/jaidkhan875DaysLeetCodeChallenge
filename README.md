@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
