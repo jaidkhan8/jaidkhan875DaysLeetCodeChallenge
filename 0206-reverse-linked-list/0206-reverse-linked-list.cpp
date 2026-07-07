@@ -14,6 +14,9 @@ public:
         ListNode* curr=head;
         ListNode* prev=nullptr;
         ListNode* forward=nullptr;
+        if(head==nullptr || head->next==nullptr){
+            return head;
+        }
         while(curr!=nullptr){
             forward=curr->next;
             curr->next=prev;
