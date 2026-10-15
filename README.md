@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
