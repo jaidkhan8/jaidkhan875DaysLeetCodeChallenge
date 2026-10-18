@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
