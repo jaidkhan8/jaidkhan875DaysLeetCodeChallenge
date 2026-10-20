@@ -7,17 +7,20 @@ public:
         while (start < end) {
             if (!isalnum(s[start])) {
                 start++;
+                continue;
             }
-            else if (!isalnum(s[end])) {
+
+            if (!isalnum(s[end])) {
                 end--;
+                continue;
             }
-            else if (tolower(s[start]) != tolower(s[end])) {
+
+            if (tolower(s[start]) != tolower(s[end])) {
                 return false;
             }
-            else {
-                start++;
-                end--;
-            }
+
+            start++;
+            end--;
         }
 
         return true;
