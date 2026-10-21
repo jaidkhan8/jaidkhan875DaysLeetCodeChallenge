@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
