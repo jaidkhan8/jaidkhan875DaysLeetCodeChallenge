@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/jaidkhan8/jaidkhan875DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
